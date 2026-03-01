@@ -1,8 +1,6 @@
 start hadoop cluster
 - start-dfs.sh
 - start-yarn.sh
-- start-master.sh
-- start-worker.sh spark://localhost:7077
 
 Copy the test.py to Desktop
 - **Submit SPARK job**
